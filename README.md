@@ -5,9 +5,6 @@ Licence of teamfourthdimension.ml which should be strictly followed.
 
 teamfourthdimension.ml is Developed and Designed by Vivank Sharma
 
-  - Type some Markdown on the left
-  - See HTML in the right
-  - Magic
 
 # Ownership of copyright
 
